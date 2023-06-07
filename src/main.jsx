@@ -1,4 +1,6 @@
-    import Minhafoto from './imgs/myphoto.jpg';
+    import pic from './imgs/myphoto pro.png';
+    import './style_components/main.css';
+
 
     function main(){
         
@@ -29,7 +31,7 @@
 
                     <div className="minha_foto"> 
             
-                            <img  src={<Minhafoto></Minhafoto>} alt="minha_foto" />
+                            <img  src={pic} alt="minha_foto" />
 
                     </div>
 

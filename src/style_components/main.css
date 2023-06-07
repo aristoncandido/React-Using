@@ -1,0 +1,17 @@
+div.minha_foto{
+    width: 100%;
+
+}
+
+
+
+div.minha_foto img{
+
+    width: 50%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 5%;
+
+
+}
